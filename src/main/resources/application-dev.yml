@@ -1,0 +1,5 @@
+user:
+  id: '1'
+  username: 'zhangsan'
+  password: '111111'
+  sex: '男'
